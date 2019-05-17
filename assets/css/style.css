@@ -6,7 +6,8 @@
     border: solid black 5px;
 }
 body{
-    background-image:url("https://i.pinimg.com/originals/81/c2/16/81c216ba2769f74ca2511571d2cbe53e.png")
+    background-image:url("https://i.pinimg.com/originals/81/c2/16/81c216ba2769f74ca2511571d2cbe53e.png");
+	background-size:cover;
 }
 p{
     text-align:center;
